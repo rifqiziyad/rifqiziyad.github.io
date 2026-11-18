@@ -39,11 +39,11 @@
         year: '2024',
         stack: 'React • TypeScript • Redux Toolkit • Material UI',
         linkUrl: null,
-        image: 'assets/hibank/hi1.webp',
-        imageWidth: 1494,
-        imageHeight: 936,
+        image: 'assets/hibank/hi4.webp',
+        imageWidth: 1360,
+        imageHeight: 970,
         imageSrcset:
-          'assets/hibank/hi1-800.webp 800w, assets/hibank/hi1-1200.webp 1200w, assets/hibank/hi1.webp 1494w',
+          'assets/hibank/hi4-800.webp 800w, assets/hibank/hi4-1200.webp 1200w, assets/hibank/hi4.webp 1360w',
         imageAlt: 'Hibank Client Portal System',
         gallery: [
           'assets/hibank/hi1.webp',
