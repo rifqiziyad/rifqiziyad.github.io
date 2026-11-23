@@ -70,9 +70,7 @@
         gallery: [
           'assets/cimb/ci1.webp',
           'assets/cimb/ci2.webp',
-          'assets/cimb/ci3.webp',
-          'assets/cimb/ci4.webp',
-          'assets/cimb/ci5.webp'
+          'assets/cimb/ci3.webp'
         ]
       },
       {
@@ -103,7 +101,7 @@
         description:
           'Revamp of the company profile with a modern design and seamless integration to Strapi for dynamic content management.',
         year: '2025',
-        stack: 'React Native • Flutter • TypeScript • WebSockets • Node.js',
+        stack: 'Next.js • TypeScript • Tailwind CSS.',
         linkUrl: 'https://smartbox.build',
         image: 'assets/smartbox/sm1.webp',
         imageWidth: 1600,
